@@ -1,0 +1,48 @@
+#header {
+    min-width: 530px;
+    height: 100px;
+    padding: 0;
+}
+
+#header nav{
+    margin-top: 38px;
+    /*margin-top: 2.7em;*/
+}
+
+#logo {
+    height: 80px;
+    width: 370px;
+}
+
+#header ul li a {
+    height: 100px;
+    padding-top: 38px !important;
+}
+#header .navbar-header {
+    float: left;
+}
+
+#header ul{
+    margin-left: 10px;
+}
+
+#for-login {
+    margin-top: 150px;
+    width: 500px;
+    padding: 20px;
+}
+
+#reg-but {
+    float: right;
+}
+
+#wrapper {
+    margin-top: 150px;
+}
+
+/*FRIENDS PAGE*/
+#wrapper form {
+    position: relative;
+    top: -59px;
+    left: 851px;
+}
